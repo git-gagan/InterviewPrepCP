@@ -3,3 +3,4 @@
 2) Equilibrium Point in an Array
 3) Leaders in an Array
 4) Majority Element
+5) Sort array of 0, 1 and 2
