@@ -5,3 +5,4 @@
 4) Majority Element
 5) Sort array of 0, 1 and 2
 6) Missing Number in an Array
+7) Rotate Array In-place
