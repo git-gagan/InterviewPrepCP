@@ -1,2 +1,3 @@
 # Questions on Algorithms
-1. Bubble sort
+1. Bubble Sort
+2. Selection Sort
