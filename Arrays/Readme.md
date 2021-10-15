@@ -7,3 +7,4 @@
 6) Missing Number in an Array
 7) Rotate Array In-place
 8) Plus 1 in-place
+9) WaveArray
