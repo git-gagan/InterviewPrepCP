@@ -8,3 +8,4 @@
 7) Rotate Array In-place
 8) Plus 1 in-place
 9) WaveArray
+10) Check if 2 arrays are equal
